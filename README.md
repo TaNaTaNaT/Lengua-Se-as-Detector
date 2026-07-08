@@ -1,12 +1,5 @@
 # proyecto_lenguaje_senas
 
-
-Integrantes: Felipe Aguayo, Ignacio Barrientos, Jose Briones, Nicolas Lintz.
-Asignatura: Aplicaciones De Inteligencia Artificial.
-Docente: Vedran Hrvoj Tomicic Cantizano.
-
-
-
 1) Mencionar y justificar el problema (con datos y su fuente respectiva)
 R: En Chile, las personas con discapacidad siguen enfrentando barreras importantes para acceder a la educación, al trabajo y a los servicios básicos. La Encuesta Nacional de Discapacidad y Dependencia (ENDIDE 2022) estima que un 17,6 % de la población adulta presenta alguna discapacidad, es decir, alrededor de 2,7 millones de personas, y que en la Región de Los Ríos la prevalencia llega aproximadamente al 21,6 % (61.404 personas). Dentro de estas discapacidades, las de tipo sensorial (visión y audición) generan barreras comunicacionales especialmente críticas en contextos de atención ciudadana, educación y salud. La OMS calcula que más de 430 millones de personas en el mundo tienen una pérdida de audición discapacitante, proyección que podría superar los 700 millones en 2050. En Chile, se estima que más de 800.000 personas presentan algún grado de hipoacusia o sordera, lo que refuerza la necesidad de soluciones que faciliten la comunicación entre personas sordas y oyentes. En la Región de Los Ríos cuyo sector productivo se apoya fuertemente en servicios, comercio, turismo y educación esta brecha comunicacional impacta directamente la inclusión laboral y el acceso a información de calidad (trámites municipales, salud, transporte, etc.). No siempre hay intérpretes de Lengua de Señas Chilena (LSCh) disponibles, y muchas interacciones diarias quedan fuera de la cobertura de los servicios formales.
 
